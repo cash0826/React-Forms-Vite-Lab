@@ -2,7 +2,7 @@
 
 ## Task
 
-- Implement a controlled form
+- Add a controlled search and controlled form to the webpage
 
 ## Component Tree
 
